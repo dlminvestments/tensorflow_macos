@@ -1,5 +1,5 @@
 ## Mac-optimized TensorFlow and TensorFlow Addons
-
+[![](https://images.microbadger.com/badges/version/jupyter/base-notebook.svg)](https://microbadger.com/images/jupyter/base-notebook "Get your own version badge on microbadger.com")
 
 ### INTRODUCTION
 
