@@ -6,4 +6,4 @@ requests==2.24.0
 sphinx==1.6
 sphinx-intl==2
 tabulate==0.8.0
-transifex-client==.11
+transifex-client==0.11
