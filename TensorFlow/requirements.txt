@@ -52,7 +52,7 @@ terminado==0.9.4
 testpath==0.4.4
 tornado==6.1
 traitlets==4.3.2
-wcwidth==0.1.7
+wcwidth==0.2.5
 Werkzeug==0.15.3
 widgetsnbextension==3.5.1
 tensorflow-gpu==2.4.0
