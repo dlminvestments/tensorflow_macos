@@ -57,4 +57,4 @@ Werkzeug==0.15.3
 widgetsnbextension==3.5.1
 tensorflow-gpu==2.4.0
 wget==3.2
-seaborn==0.9.0
+seaborn==0.11.1
