@@ -25,7 +25,7 @@ networkx==2.0
 notebook==6.1.5
 numpy==1.20.2
 olefile==0.44
-opencv-python==3.3.0.10
+opencv-python==4.5.1.48
 pandocfilters==1.4.3
 parso==0.1.0
 pexpect==4.8.0
