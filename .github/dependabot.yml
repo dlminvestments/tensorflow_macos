@@ -1,0 +1,41 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+    timezone: America/New_York
+  open-pull-requests-limit: 30
+  ignore:
+  - dependency-name: wcwidth
+    versions:
+    - 0.2.5
+  - dependency-name: html5lib
+    versions:
+    - "1.1"
+  - dependency-name: notebook
+    versions:
+    - 6.3.0
+  - dependency-name: tensorflow
+    versions:
+    - 2.4.1
+  - dependency-name: werkzeug
+    versions:
+    - 1.0.1
+  - dependency-name: parso
+    versions:
+    - 0.8.2
+  - dependency-name: mistune
+    versions:
+    - 0.8.4
+  - dependency-name: jinja2
+    versions:
+    - 2.11.3
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+    timezone: America/New_York
+  open-pull-requests-limit: 30
