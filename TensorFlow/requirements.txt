@@ -59,3 +59,4 @@ widgetsnbextension==3.5.1
 tensorflow-gpu==2.4.1
 wget==3.2
 seaborn==0.11.1
+neural-network==1
