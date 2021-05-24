@@ -56,7 +56,7 @@ traitlets==5.0.5
 wcwidth==0.2.5
 Werkzeug==0.15.3
 widgetsnbextension==3.5.1
-tensorflow-gpu==2.4.1
+tensorflow-gpu==2.5.0
 wget==3.2
 seaborn==0.11.1
 neuralnetwork==1.0.0
