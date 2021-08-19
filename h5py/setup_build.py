@@ -114,7 +114,6 @@ class h5py_build_ext(build_ext):
 
     def run(self):
         """ Distutils calls this method to run the command """
-
         from Cython import __version__ as cython_version
         from Cython.Build import cythonize
         import numpy
