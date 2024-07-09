@@ -13,3 +13,4 @@ cffi
 # - There is no point in installing typing_extensions without mypy
 mypy==0.812; platform_python_implementation != "PyPy"
 typing_extensions==3.7.4.3; platform_python_implementation != "PyPy"
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
